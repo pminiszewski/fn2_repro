@@ -1,0 +1,4 @@
+[wrap-git]
+directory = fastnoise2
+url = https://github.com/pminiszewski/FastNoise2.git
+revision = master
